@@ -1,0 +1,54 @@
+body{
+	background-color: #64485C;
+   padding: 0px;
+}
+
+a{
+   background-color: #adadad;
+}
+
+#header-nav{
+   background-color: #2E1114;
+   border: 0px;
+   border-radius: 0px;
+   height: 90px;
+ }
+
+ .navbar-brand{
+   background-color: #2E1114;
+   font-size: 50px;
+   margin-top: 15px;
+ }
+
+ #nav-button{
+   margin-top: 40px;
+   margin-bottom: 0px;
+ }
+
+ #menu-options{
+   border: 0px;
+   margin: 0px;
+   padding: 0px;
+   overflow: visible;
+   font-size: 20px;
+   text-align: center;
+ }
+
+ li:nth-child(1){
+   top: 2px solid black;
+ }
+
+ li:nth-child(2){
+   border-bottom: 2px solid black;
+   border-top: 2px solid black;
+ }
+
+ li:nth-child(3){
+   border-bottom: 2px solid black;
+ }
+
+ .text-center{
+   color: white;
+   margin: 40px;
+   font-family: cursive;
+ }
