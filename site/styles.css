@@ -3,6 +3,13 @@ body{
    padding: 0px;
 }
 
+p{
+  background-color: #adadad;
+  padding: 30px;
+  text-align: justify;
+  font-family: cursive;
+}
+
 a{
    background-color: #adadad;
 }
